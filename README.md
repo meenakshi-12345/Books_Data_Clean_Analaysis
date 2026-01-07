@@ -61,11 +61,13 @@ Seaborn
 Jupyter Notebook
 
 📁 Project Structure
+```
 ├── Books_Data_clean.ipynb     # Main notebook with cleaning + analysis
 ├── dataset/                   # Raw and cleaned data files
 ├── visuals/                   # Exported graphs and plots
 └── README.md                  # Project documentation
 
+```
 👩‍💻 Author
 
 Meenakshi Rajpurohit
