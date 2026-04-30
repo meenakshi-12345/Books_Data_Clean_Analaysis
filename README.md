@@ -74,6 +74,6 @@ Meenakshi Rajpurohit
 Passionate about data analysis, visualization, and extracting meaningful insights from real-world datasets.
 
 📬 Contact
-
-imeenakshii28@gmail.com
+Meenakshi Rajpurohit
+Gmail_Id - imeenakshii28@gmail.com
 For queries or collaborations, feel free to reach out!
